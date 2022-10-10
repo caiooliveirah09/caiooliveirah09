@@ -1,5 +1,5 @@
-## Olá meu nome é Caio, mas me chame de Elros!
-## Hello my name is Caio, but call me Elros!
+## Olá, meu nome é Caio, mas me chame de Elros!
+## Hello, my name is Caio, but call me Elros!
 
 ```
 const name = 'Caio Oliveira de Andrade';

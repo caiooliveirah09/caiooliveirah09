@@ -1,18 +1,30 @@
 ## Olá meu nome é Caio, mas me chame de Elros!
 ## Hello my name is Caio, but call me Elros!
 
-<div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
-  <div align="left" style="display: inline_block">
-``` const name = 'Caio Oliveira de Andrade';```
-  </div>
-</div>
+```
+const name = 'Caio Oliveira de Andrade';
+const nickName = 'Elros'
+
+const status = {
+  learning: ['Node.js', 'Arquitetura de Software', 'Model', 'Service', 'Controller'],
+}
+
+const skills = {
+  hardSkills: ['front-end', 'javaScript', 'HTML',
+    'CSS', 'DOM', 'git', 'unix&bash', 'react', 'redux',
+    'contextApi', 'reactHooks', 'router', 'docker', 'mySql'],
+  softSkilss: ['criatividade', 'inteligenciaEmocional',
+    'pensamentoCritico', 'liderença', 'comunicação', 'colaboração',
+     'metolodogiaÁgeis'],
+}
+
+```
 
 ---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiooliveirah09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiooliveirah09&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiooliveirah09&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
 ---

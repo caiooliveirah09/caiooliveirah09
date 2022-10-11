@@ -3,7 +3,7 @@
 
 ```
 const name = 'Caio Oliveira de Andrade';
-const nickName = 'Elros'
+const nickName = 'Elros';
 
 const status = {
   learning: ['Node.js', 'Arquitetura de Software', 'Model', 'Service', 'Controller'],

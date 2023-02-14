@@ -7,7 +7,7 @@ const nickName = 'Elros';
 age = 19;
 
 const status = {
-  learning: ['python'],
+  learning: ['python', 'english'],
 }
 
 const skills = {

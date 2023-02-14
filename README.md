@@ -6,15 +6,16 @@ const name = 'Caio Oliveira de Andrade';
 const nickName = 'Elros';
 
 const status = {
-  learning: ['back-end', 'mongoDB'],
+  learning: ['python'],
 }
 
 const skills = {
-  hardSkills: ['front-end', 'javaScript', 'HTML',
+  hardSkills: ['desenvolvimento-web','front-end', 'javaScript', 'HTML',
     'css', 'doom', 'git', 'unix&bash', 'react', 'redux',
     'contextApi', 'reactHooks', 'router', 'docker', 'mySql',
     'node.js', 'arquiteturaDeSoftware', 'typeScript', 'sequelize',
-    'express' ],
+    'express', 'jwt', 'mongodb', 'mongoose', 'back-end', 'Poo(Programação Orientada a Objetos)',
+    'solid', 'MSC'],
   softSkilss: ['criatividade', 'inteligenciaEmocional',
     'pensamentoCritico', 'liderença', 'comunicação', 'colaboração',
      'metolodogiaÁgeis'],

@@ -51,8 +51,9 @@ const skills = {
   <img align="center" alt "sequelize" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt "express" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt "jest" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt "jest" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  <img align="center" alt "jest" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt "mocha" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img align="center" alt "trello" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt "python" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ---

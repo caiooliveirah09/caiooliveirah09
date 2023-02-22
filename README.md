@@ -4,7 +4,7 @@
 ```
 const name = 'Caio Oliveira de Andrade';
 const nickName = 'Elros';
-age = 19;
+let age = 19;
 
 const status = {
   learning: ['python', 'english'],

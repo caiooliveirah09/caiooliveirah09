@@ -7,8 +7,7 @@ const nickName = 'Elros';
 let age = 19;
 
 const status = {
-  learning: ['python', 'padroesDeProjetos', 'raspagemDeDados', 'algoritmos, 
-    'estrutudaDeDados', 'english', 'vue', 'nuxt', 'vuetify'],
+  learning: ['java', 'c#',],
 }
 
 const skills = {
@@ -17,10 +16,11 @@ const skills = {
     'contextApi', 'reactHooks', 'router', 'docker', 'mySql',
     'node.js', 'arquiteturaDeSoftware', 'typeScript', 'sequelize',
     'express', 'jwt', 'mongodb', 'mongoose', 'back-end', 'Poo(Programação Orientada a Objetos)',
-    'solid', 'MSC'],
+    'solid', 'MSC', 'python', 'padroesDeProjetos', 'raspagemDeDados', 'algoritmos, 
+    'estrutudaDeDados', 'english', 'vue', 'nuxt', 'vuetify'],
   softSkilss: ['criatividade', 'inteligenciaEmocional',
     'pensamentoCritico', 'liderença', 'comunicação', 'colaboração',
-     'metolodogiaÁgeis'],
+     'metolodogiaÁgeis', 'aprenderAAprender', 'resoluçãoDeProblemas'],
 }
 
 ```
@@ -58,6 +58,8 @@ const skills = {
   <img align="center" alt="nuxt" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="vue" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="vuetify" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+  <img align="center" alt="next" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="tailwind" height="35" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
 
 ---

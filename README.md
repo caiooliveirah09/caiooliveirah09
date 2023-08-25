@@ -7,7 +7,7 @@ const nickName = 'Elros';
 let age = 19;
 
 const status = {
-  learning: ['java', 'c#'],
+  learning: ['java', 'c#', 'AWS', 'CDK', 'AWS Lambda'],
 }
 
 const skills = {

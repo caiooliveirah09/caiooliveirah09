@@ -7,7 +7,7 @@ const nickName = 'Elros';
 let age = 19;
 
 const status = {
-  learning: ['java', 'c#',],
+  learning: ['java', 'c#'],
 }
 
 const skills = {
@@ -17,7 +17,7 @@ const skills = {
     'node.js', 'arquiteturaDeSoftware', 'typeScript', 'sequelize',
     'express', 'jwt', 'mongodb', 'mongoose', 'back-end', 'Poo(Programação Orientada a Objetos)',
     'solid', 'MSC', 'python', 'padroesDeProjetos', 'raspagemDeDados', 'algoritmos, 
-    'estrutudaDeDados', 'english', 'vue', 'nuxt', 'vuetify'],
+    'estrutudaDeDados', 'english', 'vue', 'nuxt', 'vuetify', 'PHP', 'Laravel', 'jQuery'],
   softSkilss: ['criatividade', 'inteligenciaEmocional',
     'pensamentoCritico', 'liderença', 'comunicação', 'colaboração',
      'metolodogiaÁgeis', 'aprenderAAprender', 'resoluçãoDeProblemas'],

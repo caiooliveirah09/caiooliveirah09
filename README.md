@@ -7,11 +7,17 @@ const nickName = 'Elros';
 let age = 20;
 
 const status = {
-  learning: ['java', 'c#', 'AWS', 'CDK', 'AWS Lambda', 'dynamoDB', 'singleTableDesign],
+  learning: ['java'],
 }
 
 const skills = {
-  hardSkills: ['desenvolvimento-web','front-end', 'javaScript', 'HTML',
+  hardSkills: [ 'AWS CDK (Cloud Development Kit)', 'AWS IAM (Identity and Access Management)', 'AWS SES (Simple Email Service)'
+    'AWS CloudWatch', 'AWS CloudFormation', 'AWS SNS (Amazon Simple Notification Service)'
+    'AWS CloudFront', 'AWS Elastic Cache','AWS Auto Scaling', 'AWS RDS (Relational Database Service)',
+    'AWS VPC (Virtual Private Cloud)', 'AWS S3 (Simple Storage Service)', 'AWS SQS (Simple Queue Service)',
+    'AWS Cognito', 'AWS Elastic Container Registry', 'AWS Route 53', 'AWS EC2 (Elastic Compute Cloud)', 'AWS Fargate',
+    'singleTableDesign', 'dynamoDB', 'AWS Lambdas', 'AWS Database Migration Service', 'AWS',
+    'desenvolvimento-web','front-end', 'javaScript', 'HTML',
     'css', 'doom', 'git', 'unix&bash', 'react', 'redux',
     'contextApi', 'reactHooks', 'router', 'docker', 'mySql',
     'node.js', 'arquiteturaDeSoftware', 'typeScript', 'sequelize',
@@ -37,6 +43,8 @@ const skills = {
 ### Ferramentas e tecnologias que utilizo:
 
 <div>
+  <img align="center" alt="bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
